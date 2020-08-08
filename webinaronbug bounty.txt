@@ -1,0 +1,74 @@
+Hello friends welcome to the webinar on  bug bounty!!!
+
+Who i am?
+What i am studying?
+What we are learning in this webinar?
+--> We are learning about bug hunting.
+--> We were discussing about various tools we use for hunting bugs
+--> We are discussing about difference between the OWASP top 10 bugs & SANS CWE 25 vs CVE bugs.
+--> We are discussing about various platforms to hunt and submit bugs for various programs
+--> Casestudy and some bugs 
+--> Conclusion
+______________________________________________________
+*What is bug hunting?
+A bug bounty program is a deal offered by many websites, organizations and software developers by which individuals can receive recognition and compensation for reporting bugs, especially those pertaining to security exploits and vulnerabilities.
+
+______________________________________________________
+*Tools used:
+	burpsuite 
+	       |
+	      ^
+___________|  |______________
+community       ```professional```
+--------------------------------------------
+
+sublister
+hackbar
+virustotal
+exiftool 
+dirsearcher
+wfuzz
+curl
+nmap
+owasp zap
+whoami
+virustotal
+shodan
+google dorks
+wappalyzer
+etc....
+______________________________________________________
+*OWASP TOP 10 VS SANS CWE 25 vs CVE:
+
+what is OWASP?
+Open webapplication secuirty project.
+
+what is SANS?
+SysAdmin, Audit, Network, and Security.
+
+what is CWE?
+Common Weakness Enumeration.
+
+what is CVE?
+Common Vulnerabilities and Exposures.
+______________________________________________________
+
+*Platforms:
+.Bug Crowd
+.synack
+.intigriti
+.hackerone
+.Cobalt Bug Bounty
+.SafeHats
+.Praetorian Diana.
+and lot more....
+______________________________________________________
+*Casestudy and some bugs 
+lets see a video on a popular website such as tesla.com
+______________________________________________________
+*conclusion
+
+
+
+
+
